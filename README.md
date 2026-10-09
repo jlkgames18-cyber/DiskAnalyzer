@@ -18,7 +18,7 @@
 
 ```bash
 # 1. استنساخ المستودع
-git clone https://github.com
+git clone https://github.com](https://github.com/jlkgames18-cyber/DiskAnalyzer
 
 # 2. الانتقال إلى مجلد المشروع
 cd Disk-Space-Analyzer
