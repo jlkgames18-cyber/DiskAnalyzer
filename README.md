@@ -34,4 +34,4 @@ python main.py
 هذا المشروع مفتوح المصدر ومحمى بموجب رخصة **GNU General Public License v3 (GPLv3)**.
 
 ---
-**تطوير وتصميم:** Craftou سهيل 😉
+**تطوير وتصميم:** Craftou 😉
